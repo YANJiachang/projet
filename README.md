@@ -10,7 +10,7 @@ La classe 'Backtester' est un outil complexe conçu pour simuler et analyser les
 2.Daily returns et annualized returns :
 Asset Daily Returns: calcule les variations quotidiennes en pourcentage des prix des actifs multipliées par les signaux de trading, indiquant la position de la stratégie (longue ou courte) ce jour particulier.
 
-Multipliez le taux de variation quotidien (pourcentage de variation) du cours de clôture de chaque actif par son signal de trading correspondant (1 représente un achat, -1 représente une vente), ajustant ainsi la direction et la taille du rendement pour refléter la stratégie dans les performances de trading réelles.
+Multipliez le taux de variation quotidien (pourcentage de variation) du cours de clôture de chaque actif par son signal de trading correspondant (1 représente un achat, 0 représente "ne change pas"), ajustant ainsi la direction et la taille du rendement pour refléter la stratégie dans les performances de trading réelles.
 
 Asset Annualized Returns: transforme les rendements quotidiens en un format annualisé pour comprendre la performance annuelle moyenne.
 
