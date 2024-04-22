@@ -19,6 +19,7 @@ Calculez les rendements annualisés pour chaque actif en accumulant les rendemen
 3.Volatilité :La classe calcule l'écart type des rendements quotidiens (volatilité), ce qui est crucial pour évaluer le risque associé à la stratégie de trading.
 
 4.Indicateurs de performance :
+
 Ratio de Sharpe : mesure le rendement de l'investissement ajusté au risque, aidant à comprendre la rentabilité par unité de risque.
 Pour estimer le rendement excédentaire par unité de risque.
 
