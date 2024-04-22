@@ -25,7 +25,7 @@ Pour estimer le rendement excédentaire par unité de risque.
 Valeurs bêta : calcule le risque systématique du portefeuille par rapport au marché, y compris des mesures distinctes pour les conditions lorsque le marché est en hausse et lorsqu'il est en baisse.
 Le bêta global reflète le degré de corrélation d'un portefeuille avec la volatilité globale du marché. Beta up et bêta down calculent respectivement les valeurs bêta pendant les marchés haussiers et baissiers pour évaluer la sensibilité à la performance d'un portefeuille dans différentes conditions de marché.
 
-5.Max Drawdown :
+5.Max Drawdown :在commentaire里选最大回撤最小的
 la Max Drawdown est une mesure de la baisse maximale du prix d'un actif depuis son sommet jusqu'à son creux, et est généralement utilisée pour évaluer le risque potentiel d'un actif. Cette méthode suit les sommets historiques des prix des actifs et calcule le pourcentage de baisse relative maximum entre ces sommets et les points les plus bas suivants pour obtenir le taux de retracement maximum, le stocke et le multiplie par 100 pour le convertir en pourcentage pour une compréhension plus intuitive et l'expression.
 
 6.Stratégie :
