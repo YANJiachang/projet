@@ -36,7 +36,7 @@ Comprend des méthodes pour tracer les daily returns des actifs et de l’ensemb
 
 ## Exemple d'utilisation 
 Utilisez la classe Backtester pour effectuer un backtest d'une stratégie de trading basée sur des données historiques.
--Utilisez 'AAPL','AMZN','GOOGL'.
+-Utilisez 'AAPL','AMZN','GOOGL'.('AAPL'domine le marché de l’électronique grand public. 'AMZN' représente le marché du commerce électronique et 'GOOGL' représente le marché de l'innovation technologique.)
 -Téléchargez les données boursières pour une période de date personnalisée à partir de Yahoo Finance et enregistrez-les dans un fichier CSV local.
 -Créez un objet Backtester et transmettez des données telles que le nom de l'action, le cours de clôture, le signal de trading, le poids, le taux sans risque et le rendement du marché.
 -Exécutez la stratégie de trading nommée « strategy_a » (basée sur un simple croisement de moyenne mobile) et utilisez les données préparées.
